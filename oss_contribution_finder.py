@@ -1,1 +1,1 @@
-$(cat /workspace/artifacts/oss_contribution_finder.py)
+PLACEHOLDER
